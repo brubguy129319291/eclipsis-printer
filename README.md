@@ -1,1 +1,2 @@
 # eclipsis-printer
+Eclipsis printer.
